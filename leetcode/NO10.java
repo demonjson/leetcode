@@ -1,4 +1,4 @@
-﻿package code;
+package code;
 
 public class NO10 {
 
