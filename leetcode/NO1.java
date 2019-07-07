@@ -2,7 +2,7 @@
 
 public class NO1 {
 
-	//NO1
+	//OO1
 	/**
 	 * @param args
 	 */
