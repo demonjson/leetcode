@@ -6,8 +6,7 @@ public class NO1 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method str
-	
+		// TODO Auto-generated method strab	
 	}
  
 	
