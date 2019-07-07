@@ -1,7 +1,7 @@
 package code;
 
 public class NO1 {
-
+	//NO1
 	/**
 	 * @param args
 	 */
