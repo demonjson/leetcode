@@ -2,7 +2,7 @@ package code;
 
 public class NO1 {
 
-	//NO1
+	//NO1、、
 	/**
 	 * @param args
 	 */
@@ -12,7 +12,7 @@ public class NO1 {
 	}
  
 	
-	//��һ��
+	//µÚÒ»Ìâ
 	 public int[] twoSum(int[] nums, int target) {
 	        int []a = new int [2];
 	        for(int i = 0; i<nums.length; i++){
