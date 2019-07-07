@@ -1,9 +1,10 @@
-package code;
+﻿package code;
 
 import java.util.HashMap;
 import java.util.Map;
 
 public class NO3 {
+
 
 	/**
 	 * @param args
