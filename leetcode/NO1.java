@@ -7,7 +7,6 @@ public class NO1 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 	}
 
 	 public int[] twoSum(int[] nums, int target) {
