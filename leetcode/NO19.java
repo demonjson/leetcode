@@ -1,6 +1,7 @@
-package code;
+﻿package code;
 
 public class NO19 {
+
 
 	/**
 	 * @param args
