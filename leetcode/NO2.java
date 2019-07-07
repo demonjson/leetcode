@@ -2,6 +2,7 @@ package code;
 
 public class NO2 {
 
+
 	public class ListNode {
 		 int val;
 		 ListNode next;
