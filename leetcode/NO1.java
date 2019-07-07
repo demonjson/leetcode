@@ -2,11 +2,6 @@
 
 public class NO1 {
 
-<<<<<<< HEAD
-	//OO1
-=======
-	//PO1
->>>>>>> 059a594124e2f36c183d7d18b35c08f915171a3a
 	/**
 	 * @param args
 	 */
