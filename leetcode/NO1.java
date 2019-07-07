@@ -1,6 +1,7 @@
 package code;
 
 public class NO1 {
+
 	//NO1
 	/**
 	 * @param args
@@ -9,7 +10,7 @@ public class NO1 {
 		// TODO Auto-generated method stub
 	
 	}
-
+ 
 	
 	//µÚÒ»Ìâ
 	 public int[] twoSum(int[] nums, int target) {
