@@ -1,4 +1,4 @@
-﻿package code;
+package code;
 
 public class NO10 {
 
@@ -6,9 +6,7 @@ public class NO10 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//
-		String str = "ab";
+			String str = "ab";
 		String pattern = ".*c";
 		System.out.println(new NO10().isMatch(str, pattern));
 	}
